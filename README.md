@@ -7,7 +7,7 @@ Dans cette partie le serveur demande au client de donner un nombre, aprés le se
 
 Partie 4 :
 
-Dans cette partie nous avons crées un serveur multithreads qui permet d'établir la connexion avec plusieurs client, chaque client envoie une chaine de caractères au client et le serveur fournit la longueur de cette chaine puis il va l'envoyée au client qui correspond.
+Dans cette partie nous avons crées un serveur multithreads qui permet d'établir la connexion avec plusieurs client, chaque client envoie une chaine de caractères au serveur et le serveur fournit la longueur de cette chaine puis il va l'envoyée au client qui correspond.
 
 ![image](https://user-images.githubusercontent.com/101976300/159686013-bf5c724a-3661-4ec0-b41f-56397c6efb28.png)
 
